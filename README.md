@@ -1,5 +1,5 @@
 # Winters-Icons
-An icon pack inspired by the winter season
+An icon pack inspired for the winter season
 
 The driving force to create these icons was to create a way 
 for developers to use icons free of attribution and licensing 
