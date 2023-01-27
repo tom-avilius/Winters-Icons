@@ -3,10 +3,13 @@
     padding: 0;
 }
 
-body {
+.background {
 
     background-image: url(".//Image\ by\ Predra6_Photos\ from\ Pixabay.jpg");
     background-repeat: no-repeat;
     background-size:cover;
     height: 100vh;
+
+    filter: none;
+    -webkit-filter: brightness(0.7);
 }
