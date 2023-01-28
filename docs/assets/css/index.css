@@ -21,7 +21,7 @@ body {
 
     text-align: center;
     position: absolute;
-    top: 50%;
+    top: 30%;
 }
 
 .navbar-div {
@@ -36,4 +36,14 @@ body {
 .nav-item {
 
     list-style-type: none;
+    margin: 25% 0;
+    font-size: 2rem;
+    font-weight: 500;
+    letter-spacing: 5px;
+}
+
+.nav-item:hover {
+
+    cursor: pointer;
+    opacity: 50%;
 }
