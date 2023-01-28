@@ -13,10 +13,21 @@ body {
 
 .background {
 
-    background-color: black;
-    opacity: 35%;
+    background-color: rgba(0, 0, 0, 0.4);
     height: 100vh;
 }
 
 .navbar {
+
+}
+
+.navbar-div {
+
+    width: 25%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.60);
+}
+
+.navbar-item {
+    
 }
