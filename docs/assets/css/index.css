@@ -11,10 +11,36 @@ body {
     height: 100vh;
 }
 
+.about-content-div {
+
+}
+
 .background {
 
     background-color: rgba(0, 0, 0, 0.4);
     height: 100vh;
+}
+
+.content-position {
+
+    position: absolute;
+    left: 25%;
+    top: 0%;
+}
+
+.downloads-content-div {
+
+    
+}
+
+.hidden {
+    
+    display: none;
+}
+
+.home-content-div {
+
+
 }
 
 .navbar {
@@ -31,13 +57,14 @@ body {
     width: 25%;
     height: 100%;
     background-color: rgba(0, 0, 0, 0.60);
+    user-select: none;
 }
 
 .nav-item {
 
     list-style-type: none;
     margin: 25% 0;
-    font-size: 2rem;
+    font-size: 2em;
     font-weight: 500;
     letter-spacing: 5px;
 }
@@ -46,4 +73,8 @@ body {
 
     cursor: pointer;
     opacity: 50%;
+}
+
+.references-content-div {
+
 }
