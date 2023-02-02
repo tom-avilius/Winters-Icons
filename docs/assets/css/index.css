@@ -11,6 +11,27 @@ body {
     height: 100vh;
 }
 
+h1, th{
+    font-family: 'Dancing Script', cursive;
+}
+
+p, td, li{
+    font-family: 'Caveat', cursive;
+}
+
+h1 {
+    font-size: 3em;
+
+}
+
+p {
+    font-size: 2em;
+}
+
+td, li, th{
+    font-size: 1.5em;
+}
+
 .about-content-div {
 
 }
@@ -33,7 +54,6 @@ body {
 
 .downloads-content-div {
 
-    
 }
 
 .hidden {
@@ -65,9 +85,10 @@ body {
 
 .nav-item {
 
+    font-family: 'Caveat', cursive;
     list-style-type: none;
     margin: 25% 0;
-    font-size: 2em;
+    font-size: 2.5em;
     font-weight: 500;
     letter-spacing: 5px;
 }
