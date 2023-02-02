@@ -1,3 +1,9 @@
+
+.tom-avilius {
+
+    text-decoration: none;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -36,8 +42,21 @@ li {
     list-style-type: none;
 }
 
-.about-content-div {
+ul li a, table tr td a {
+    color: black;
+}
 
+ul li a:hover {
+    color: black;
+    opacity: 50%;
+}
+
+table tr td a:hover {
+    opacity: 70%;
+}
+
+.about-content-div{
+    
 }
 
 .background {
