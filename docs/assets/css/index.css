@@ -55,6 +55,11 @@ table tr td a:hover {
     opacity: 70%;
 }
 
+td, th {
+    padding-right: 20px;
+    text-align: center;
+}
+
 .about-content-div{
     
 }
@@ -70,7 +75,6 @@ table tr td a:hover {
     position: absolute;
     top: 35%;
     left: 25%;
-    height: 100vh;
 
     padding-left: 5%;
 }
