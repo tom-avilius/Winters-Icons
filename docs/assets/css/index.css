@@ -21,11 +21,14 @@ body {
     height: 100vh;
 }
 
-.content-position {
+.content {
 
     position: absolute;
+    top: 35%;
     left: 25%;
-    top: 0%;
+    height: 100vh;
+
+    padding-left: 5%;
 }
 
 .downloads-content-div {
