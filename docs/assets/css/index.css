@@ -32,6 +32,10 @@ td, li, th{
     font-size: 1.5em;
 }
 
+li {
+    list-style-type: none;
+}
+
 .about-content-div {
 
 }
