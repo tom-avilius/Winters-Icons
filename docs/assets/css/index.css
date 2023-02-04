@@ -9,6 +9,14 @@
     padding: 0;
 }
 
+a {
+    color: black;
+}
+
+a:hover {
+    opacity: 70%;
+}
+
 body {
 
     background-image: url(".//Image\ by\ Predra6_Photos\ from\ Pixabay.jpg");
